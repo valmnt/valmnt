@@ -1,7 +1,6 @@
 ## Mobile 
 
-<img width="50" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" /> 
-<img width="50" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /><img width="50" src="https://img.icons8.com/color/480/swiftui.png" /><img width="50" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
+<img width="50" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" /><img width="50" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /><img width="50" src="https://img.icons8.com/color/480/swiftui.png" /><img width="50" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
 
 ## Software
 
