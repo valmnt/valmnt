@@ -1,3 +1,5 @@
+## [My GitLab 😎](https://gitlab.com/valmnt)
+
 ## Mobile 
 
 <img width="50" src="https://cdn-icons-png.flaticon.com/512/732/732250.png" /><img width="50" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" /><img width="50" src="https://img.icons8.com/color/480/swiftui.png" /><img width="50" src="https://www.ideematic.com/wp-content/uploads/2020/07/flutter_logo.png" />
@@ -18,13 +20,6 @@
 
 <img width="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" /><img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" />
 
----
-
-###  Here i am !
-
-* https://gitlab.com/valmnt
-* https://www.linkedin.com/in/valentin-mont/
-
 <div align="center">
-<img width="500" src="https://img.freepik.com/free-vector/spooky-halloween-illustration-creatures_516247-5.jpg?t=st=1652343122~exp=1652343722~hmac=ea481ab4b9137229320d5e13f704c2b73616f2e15981fbcf5d9881877baea973&w=2000" />
+<img width="300" src="https://www.pngkey.com/png/full/140-1405611_morty-png-rick-and-morty-vector-stock-rick.png" />
 </div>
