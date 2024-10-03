@@ -11,7 +11,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </p>
 
 <p align="center">
@@ -24,11 +25,19 @@
 </p>
 
 <p align="center">
-  <strong>Database</strong>
+  <strong>Cloud-plateform</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</p>
+
+<p align="center">
+  <strong>Database</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
@@ -39,7 +48,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
@@ -65,6 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yOGc1aWVrcmJ1ZnFhNG91Y2J3anQxb2hhdm0xMDB4bW5ja2UyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W33f5Uiu6DM2ZEgkUN/giphy.gif" width="350" /> 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjUza2l2Mmd3bm1qc2p2YW5rZGk3MWU2YnJ0cjNjZXd4NGF1Y3hrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vbiMpIxY8MwrvGUKVs/giphy.gif" width="350" />
+  <img   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUzODRjZHozMGU2ZDc4d2JqaDVxdjd1dDZwNWIyM3B1eDBkYTU2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61UCnVH2wzqkGYl2PW/giphy.webp" width="250" /> 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ3MmUwb3F2amh3eGE4aDhpeXo2bWZ4dTVsc2ZiYW5tZTdudmF6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/321CiQNDfS6qQwK2pk/giphy.webp" width="250" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBpNDZ3ZmE1M3F5YnB3OG8wc3Y0bG13b2J1ZWRsdjFhcnJmYjlpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DafT7Mg25IMqTzQ3d7/giphy.webp" width="250" />
 <p align="center">
