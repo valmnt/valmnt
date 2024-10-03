@@ -73,6 +73,8 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </p>
 
+---
+
 <p align="center">
   <img   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXUzODRjZHozMGU2ZDc4d2JqaDVxdjd1dDZwNWIyM3B1eDBkYTU2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/61UCnVH2wzqkGYl2PW/giphy.webp" width="250" /> 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN2ejM1ODc4enBzNzIzMDU1bHEyZGRwcTE4anpiemczZXhpMnB2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lnb8S33bUCcdS7e1w0/giphy.webp" width="250" />
