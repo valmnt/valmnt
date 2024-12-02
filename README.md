@@ -13,4 +13,4 @@ Software Engineer specializing in **React Native** with expertise in building sc
 
 ---
 
-📫 **[GitHub Profile](https://github.com/valmnt)** | **[LinkedIn](www.linkedin.com/in/valentin-mont)**  
+📫 **[GitHub Profile](https://github.com/valmnt)** | **[LinkedIn](https://www.linkedin.com/in/valentin-mont)**  
